@@ -27,6 +27,7 @@ public class Main {
 
         // add another new line
         // omg
+        System.out.println("Welcome to the world of git");
 
     }
 }
