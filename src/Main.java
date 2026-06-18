@@ -11,6 +11,15 @@ public class Main {
         // greet someone
         System.out.println("Welcome " + name);
 
+        // get the age
+        System.out.println("what is your age ");
+
+        int age = sc.nextInt();
+
+        if(age <= 21)
+            System.out.println("Welcome " + name + "is young");
+        else
+            System.out.println("Welcome " + name + "is adult");
 
 
     }
