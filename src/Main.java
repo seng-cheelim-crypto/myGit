@@ -16,6 +16,7 @@ public class Main {
 
         int age = sc.nextInt();
 
+        // determine the age
         if(age <= 21)
             System.out.println("Welcome " + name + "is young");
         else
