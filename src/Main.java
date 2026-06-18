@@ -19,6 +19,9 @@ public class Main {
         // determine the age
         if(age <= 21)
             System.out.println("Welcome " + name + "is young");
+        // determine if negative number
+        else if (age < 0)
+            System.out.println("negative number not allowed");
         else
             System.out.println("Welcome " + name + "is adult");
 
