@@ -25,6 +25,8 @@ public class Main {
         else
             System.out.println("Welcome " + name + "is adult");
 
+        // add another new line
+        // omg
 
     }
 }
